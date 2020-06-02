@@ -62,7 +62,7 @@ We provide the saliency maps ([Google drive](https://drive.google.com/file/d/1Wa
 ### Cite 
 
 If you find this paper useful for your research, please cite following papers: 
-
+~~~
 @article{jiang2019cmsalgan,
   title={$\backslash$emph $\{$cm$\}$ SalGAN: RGB-D Salient Object Detection with Cross-View Generative Adversarial Networks},
   author={Jiang, Bo and Zhou, Zitai and Wang, Xiao and Tang, Jin and Bin, Luo},
@@ -70,4 +70,4 @@ If you find this paper useful for your research, please cite following papers:
   doi={DOI: 10.1109/TMM.2020.2997184}, 
   year={2020}
 }
-
+~~~
