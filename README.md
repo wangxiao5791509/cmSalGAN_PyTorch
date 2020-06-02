@@ -2,7 +2,7 @@
 Official implementation of "cmSalGAN: RGB-D Salient Object Detection with Cross-View Generative Adversarial Networks" TMM 2020
 
 
-### *cm*SalGAN: RGB-D Salient Object Detection with Cross-View Generative Adversarial Networks
+### *cm*SalGAN: RGB-D Salient Object Detection with Cross-View Generative Adversarial Networks [[Project-page](https://sites.google.com/view/cmsalgan/)]  [[arXiv](https://arxiv.org/pdf/1912.10280.pdf)]
 
 ------
 
