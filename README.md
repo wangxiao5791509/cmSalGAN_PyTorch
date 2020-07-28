@@ -1,12 +1,6 @@
 # cmSalGAN_PyTorch
-Official implementation of "cmSalGAN: RGB-D Salient Object Detection with Cross-View Generative Adversarial Networks" TMM 2020
 
-
-### *cm*SalGAN: RGB-D Salient Object Detection with Cross-View Generative Adversarial Networks [[Project-page](https://sites.google.com/view/cmsalgan/)]  [[arXiv](https://arxiv.org/pdf/1912.10280.pdf)]
-
-------
-
-##### This is  the PyTorch implementation of [*cm*SalGAN](https://arxiv.org/pdf/1912.10280.pdf)， which is accepted  by IEEE Transactions on Multimedia. 
+### Official PyTorch implementation of *cm*SalGAN: RGB-D Salient Object Detection with Cross-View Generative Adversarial Networks [[Project-page](https://sites.google.com/view/cmsalgan/)]  [[arXiv](https://arxiv.org/pdf/1912.10280.pdf)]， which is accepted  by IEEE Transactions on Multimedia 2020. 
 
 ![rgbt_car10](https://github.com/wangxiao5791509/cmSalGAN_PyTorch/blob/master/cmsalgan.png)  
 ![rgbt_car10](https://github.com/wangxiao5791509/cmSalGAN_PyTorch/blob/master/vis.png)  
