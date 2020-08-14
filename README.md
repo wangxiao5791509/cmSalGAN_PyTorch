@@ -36,7 +36,7 @@ python3 train.py
 
 ---
 
-Preparing the test set in `Dataset/`. 
+Preparing the test set in `Dataset/`. (**Note:** The depth images need to be adjusted to 0-255 by `normDepth.m` )
 
 Downloading the pretrained model ([Google drive](https://drive.google.com/file/d/1j18BvmGEUip1NSlK3N4t66jU_WeV2tCF/view?usp=sharing)) to the path `models/`.
 
@@ -51,6 +51,10 @@ python3 test.py
 ---
 
 We provide the saliency maps ([Google drive](https://drive.google.com/file/d/1WabQWJtupBRaHQKiOFt_NV3vqdIWw9vO/view?usp=sharing)) for comparison.
+
+Following [http://dpfan.net/d3netbenchmark/](http://dpfan.net/d3netbenchmark/), we provide the saliency maps ([Google drive](https://drive.google.com/file/d/1zciWayaKTBh5mUI8FVJlall518mPyvHa/view?usp=sharing)) for corresponding dataset (DES, LFSD, NJU2K, NLPR, STERE, SSD, DUT-RGBD, SIP)
+
+The evaluation-tool we used :  [https://github.com/wenguanwang/SODsurvey/](https://github.com/wenguanwang/SODsurvey/)
 
 
 ### Cite 
