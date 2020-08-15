@@ -50,9 +50,9 @@ python3 test.py
 
 ---
 
-We provide the saliency maps ([Google drive](https://drive.google.com/file/d/1WabQWJtupBRaHQKiOFt_NV3vqdIWw9vO/view?usp=sharing)) for comparison.
+We provide the saliency maps ([Google drive](https://drive.google.com/file/d/1WabQWJtupBRaHQKiOFt_NV3vqdIWw9vO/view?usp=sharing)) for **NJUD**, **NLPR** and **STEREO**.
 
-Following [http://dpfan.net/d3netbenchmark/](http://dpfan.net/d3netbenchmark/), we provide the saliency maps ([Google drive](https://drive.google.com/file/d/1zciWayaKTBh5mUI8FVJlall518mPyvHa/view?usp=sharing)) for corresponding dataset (DES, LFSD, NJU2K, NLPR, STERE, SSD, DUT-RGBD, SIP)
+We also provide the saliency maps ([Google drive](https://drive.google.com/file/d/1ESFYo3T0QDWb-0X-miR27A1ayBqmLZUW/view?usp=sharing)) for **DES**, **LFSD**, **SSD**, **DUT-RGBD** and **SIP**.
 
 The evaluation-tool we used :  [https://github.com/wenguanwang/SODsurvey/](https://github.com/wenguanwang/SODsurvey/)
 
